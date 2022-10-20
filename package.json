@@ -1,0 +1,21 @@
+{
+  "name": "jade-pfp",
+  "version": "1.0.0",
+  "description": "Custom one-of-one profile-picture NFTs by Jade Hartley",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Garthwaite <tim@garthwaite.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.4",
+    "@types/hapi__hapi": "^20.0.10",
+    "ethers": "^5.5.3",
+    "hardhat": "^2.0.0"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.11",
+    "@openzeppelin/contracts": "^3.0.0",
+    "json-stringify-safe": "^5.0.1"
+  }
+}
